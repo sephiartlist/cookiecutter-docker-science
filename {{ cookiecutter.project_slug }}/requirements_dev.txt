@@ -4,3 +4,4 @@ notebook
 Sphinx
 flake8
 mypy
+mistune>=2.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
